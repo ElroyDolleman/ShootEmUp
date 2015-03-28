@@ -1,0 +1,3 @@
+C:\Users\Elroy\Desktop\ShootEmUp\ShootEmUp\ShootEmUp\ShootEmUpContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elroy\Documents\school\ShootEmUp\ShootEmUp\ShootEmUp\ShootEmUpContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elroy\Documents\School\xna\Projects\ShootEmUp\ShootEmUp\ShootEmUp\ShootEmUpContent\obj\x86\Debug\ShootEmUpContent.contentprojResolveAssemblyReference.cache
